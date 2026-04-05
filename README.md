@@ -2,7 +2,7 @@
 
 <!-- REPLACE this URL with any GIF you like from giphy.com or tenor.com! -->
 <!-- Suggested searches: "coding aesthetic", "matrix rain", "terminal hacker", "lo-fi coding" -->
-![header gif]([https://forum.level1techs.com/t/fermios-an-os-development-for-raspi-3/135965](https://forum.level1techs.com/uploads/default/original/3X/3/3/33bb2abd486ea3909d7346bb2296e420a6d819c8.gif))
+![header gif](33bb2abd486ea3909d7346bb2296e420a6d819c8.gif)
 
 </div>
 
@@ -50,36 +50,36 @@
 ---
 
 <!-- ═══════════════════════════════ STATS ═══════════════════════════════ -->
-<!-- REPLACE "Raghavapriyan" below with your actual GitHub username -->
+<!-- REPLACE "RaghavapriyanSaravanapriyan" below with your actual GitHub username -->
 
 <div align="center">
 
 ### `~/stats`
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Raghavapriyan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavapriyan&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=RaghavapriyanSaravanapriyan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavapriyanSaravanapriyan&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════ STREAK STATS ════════════════════════════ -->
-<!-- REPLACE "Raghavapriyan" below with your actual GitHub username -->
+<!-- REPLACE "RaghavapriyanSaravanapriyan" below with your actual GitHub username -->
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Raghavapriyan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RaghavapriyanSaravanapriyan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════ ACTIVITY GRAPH ══════════════════════════ -->
-<!-- REPLACE "Raghavapriyan" below with your actual GitHub username -->
+<!-- REPLACE "RaghavapriyanSaravanapriyan" below with your actual GitHub username -->
 
 <div align="center">
 
-[![Raghavapriyan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Raghavapriyan&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![RaghavapriyanSaravanapriyan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaghavapriyanSaravanapriyan&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -91,7 +91,7 @@
 $ echo "Thanks for visiting. Let's build something." 
 ```
 
-<!-- Profile view counter — replace "Raghavapriyan" with your username -->
-![Visitors](https://komarev.com/ghpvc/?username=Raghavapriyan&color=blueviolet&style=flat-square)
+<!-- Profile view counter — replace "RaghavapriyanSaravanapriyan" with your username -->
+![Visitors](https://komarev.com/ghpvc/?username=RaghavapriyanSaravanapriyan&color=blueviolet&style=flat-square)
 
 </div>
