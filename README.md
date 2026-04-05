@@ -2,7 +2,7 @@
 
 <!-- REPLACE this URL with any GIF you like from giphy.com or tenor.com! -->
 <!-- Suggested searches: "coding aesthetic", "matrix rain", "terminal hacker", "lo-fi coding" -->
-![header gif](https://forum.level1techs.com/t/fermios-an-os-development-for-raspi-3/135965)
+![header gif]([https://forum.level1techs.com/t/fermios-an-os-development-for-raspi-3/135965](https://forum.level1techs.com/uploads/default/original/3X/3/3/33bb2abd486ea3909d7346bb2296e420a6d819c8.gif))
 
 </div>
 
